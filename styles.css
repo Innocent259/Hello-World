@@ -1,9 +1,3 @@
-* {
-    box-sizing: border-box;
-}
-body {
-    margin: 0;
-}
 .header {
-    color: green;
+  color: rgb(29, 187, 29);
 }
