@@ -1,30 +1,90 @@
-book [Hello-World]
+# 📗 Table of Contents
 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [pray Acknowledgements]
+- [👥 Author](#author)
 
-[your_project__name] is a set up project
+# 📖 Hello-world microverse project
 
-hammer_and_wrench Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+This is a Hello-world microverse project that shows its heading
 
-Client
-Server
-Database
-Key Features
+## 🛠 Built With <a name="built-with"></a>
 
+-HTML
+-CSS
 
-[key_feature_1]
+### Tech Stack <a name="tech-stack"></a>
 
-bust_in_silhouette Author1
+-HTML,CSS, linters git and github
 
-GitHub: @innocent259
-LinkedIn: Ndahimana innocent
+### Key Features <a name="key-features"></a>
+
+- Hello-world Microverse heading
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- To have node js installed on your local machine
+
+### Setup
+
+Clone this repository to your desired folder:
+
+cd my-folder
+
+- clone the repository:
+  git clone git@github.com:Innocent259/Hello-World.git
+
+### Install
+
+Install this project with:
+
+- Change to the clone folder for example:
+- Run npm install to install dependencies of this project.
+
+### Usage
+
+To run the project, execute the following command:
+
+- Open the index.html file in the browser then you will have the project up and running
+-If you are using to can install Live Server to view it easily in your browser
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/Innocent259)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/innocent-ndahimana-b4b870245/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 pray Acknowledgments
 
-I would like to thank Ismael, he assisted me to build this project. 
+I would like to thank partner Ismael, he assisted me to build this project.
 
-This project is MIT licensed.
+## Show your support
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+Give a ⭐️ if you like this project!
 
+📝 License
+This project is [MIT](MIT.md) licensed.
